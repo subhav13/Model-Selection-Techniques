@@ -1,1 +1,1 @@
-# Model-Selection-and-Boosting
+# Model-Selection Techniques
